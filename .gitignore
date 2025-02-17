@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+data/
+dataset/
+log_latest/
+ref/
+models/
+logs/
+model_gin/
+results/
+
+*.pt
+*.pkl
+*.zip
